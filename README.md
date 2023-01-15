@@ -12,3 +12,6 @@
 ## How to connect (cathode or anode) ways 
 
 ![connect](https://github.com/AmrNagy10/7Segment/blob/main/proxy.jpg)
+
+
+* Check out sevenseg.h
