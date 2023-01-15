@@ -11,4 +11,4 @@
 
 ## How to connect (cathode or anode) ways 
 
-[connect](https://you.com/proxy?url=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.lHeKHy52GFZhlDHt7KEFoAHaIQ%26h%3D690%26c%3D7%26pid%3DApi%26p%3D0)
+![connect](https://you.com/proxy?url=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.lHeKHy52GFZhlDHt7KEFoAHaIQ%26h%3D690%26c%3D7%26pid%3DApi%26p%3D0)
